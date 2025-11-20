@@ -12,6 +12,9 @@ Explored a real-world job posting dataset to uncover insights for a fictional re
 
 <img width="1432" height="803" alt="image" src="https://github.com/user-attachments/assets/b558a21d-bc0e-4f10-96e1-3886c459634b" />
 
+.
+.
+
 **My Badges:**
 
 <img width="1192" height="687" alt="Congratulations case-study-analyzing-job-market-data-in-power-bi-dashboard-build" src="https://github.com/user-attachments/assets/aea9d15c-6c2c-4d1a-8672-0169807b40f2" />
